@@ -4,7 +4,7 @@
     "description": "",
     "main": "handler.js",
     "dependencies": {
-      "async": "^2.0.1",
+      "async": "^2.6.4",
       "aws-sdk": "^2.5.4",
       "jsonwebtoken": "^7.1.9",
       "lodash": "^4.15.0",
